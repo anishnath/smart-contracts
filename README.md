@@ -1,8 +1,10 @@
 # smart-contracts
 
-**Interact with Contracts**
+Note : The Application Binary Interface (ABI) Specifications define Operating System and Application interfaces that are neccesary to construct an execution environment for applications.
 
-- Ethererum (Network)
+**Interact with Contracts on Networks **
+
+- Ethererum
 - 
 
 
