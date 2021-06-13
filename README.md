@@ -1,5 +1,10 @@
 # smart-contracts
 
+## What is Smart-contracts
+
+Smart contracts are the executable programs that run on the Ethereum blockchain. Smart contracts are written using specific programming languages that compile to EVM bytecode (low-level machine instructions called **opcodes**).
+
+
 Note : The Application Binary Interface (ABI) Specifications define Operating System and Application interfaces that are neccesary to construct an execution environment for applications.
 
 **Interact with Contracts on Networks **
