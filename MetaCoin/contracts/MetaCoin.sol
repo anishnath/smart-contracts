@@ -1,6 +1,4 @@
-// SPDX-License-Identifier: MIT
 pragma solidity >=0.4.25 <0.7.0;
-
 import "./ConvertLib.sol";
 
 // This is just a simple example of a coin-like contract.
