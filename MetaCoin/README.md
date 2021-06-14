@@ -1,0 +1,4 @@
+-   `contracts/`: Directory for  [Solidity contracts](https://www.trufflesuite.com/docs/truffle/getting-started/interacting-with-your-contracts)
+-   `migrations/`: Directory for  [scriptable deployment files](https://www.trufflesuite.com/docs/truffle/getting-started/running-migrations#migration-files)
+-   `test/`: Directory for test files for  [testing your application and contracts](https://www.trufflesuite.com/docs/truffle/testing/testing-your-contracts)
+-   `truffle-config.js`: Truffle  [configuration file](https://www.trufflesuite.com/docs/truffle/reference/configuration)
